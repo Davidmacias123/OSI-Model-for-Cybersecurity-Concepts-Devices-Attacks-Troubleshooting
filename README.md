@@ -179,6 +179,9 @@ Everything that sends raw bits (1s and 0s):
 
 > Note: Some devices (especially modern security devices) can operate across multiple layers.
 
+<img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 03_23_26 PM" src="https://github.com/user-attachments/assets/196a8b06-eeb6-4a9a-868f-8796556159bf" />
+
+
 ---
 
 ## Security Attacks by OSI Layer
