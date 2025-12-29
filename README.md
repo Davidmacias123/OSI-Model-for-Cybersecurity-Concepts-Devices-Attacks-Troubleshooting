@@ -239,7 +239,8 @@ The TCP/IP model has **4 layers**, but it covers the same idea:
 
 
 
-<img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 03_15_13 PM" src="https://github.com/user-attachments/assets/7d2486bd-52d2-4bc9-bf9d-b5dee64d6d28" />
+<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/38247f65-1c32-4b71-983a-9a96d8754fdf" />
+
 
 ---
 
