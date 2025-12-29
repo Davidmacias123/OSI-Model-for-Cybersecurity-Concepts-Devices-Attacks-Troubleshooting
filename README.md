@@ -18,7 +18,7 @@ Think of it like **sending a package**:
 
 ---
 
-## The 7 OSI Layers (Top → Bottom)
+## The 7 OSI Layers
 
 ### Layer 7 — Application  
 **“The app you see.”**  
@@ -167,7 +167,7 @@ Everything that sends raw bits (1s and 0s):
 
 ---
 
-## Device Examples per OSI Layer (Quick Reference)
+## Device Examples per OSI Layer
 
 - **Layer 7 (Application):** Web servers, DNS servers, Email servers, Application servers  
 - **Layer 6 (Presentation):** SSL/TLS accelerators, encryption appliances  
@@ -228,7 +228,7 @@ Use this when “the network isn’t working”:
 
 ---
 
-## OSI vs TCP/IP (How They Map)
+## OSI vs TCP/IP
 
 The TCP/IP model has **4 layers**, but it covers the same idea:
 
@@ -236,6 +236,10 @@ The TCP/IP model has **4 layers**, but it covers the same idea:
 - **OSI Layer 4 → TCP/IP Transport**
 - **OSI Layer 3 → TCP/IP Internet**
 - **OSI Layers 2–1 → TCP/IP Link**
+
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 03_15_13 PM" src="https://github.com/user-attachments/assets/7d2486bd-52d2-4bc9-bf9d-b5dee64d6d28" />
 
 ---
 
