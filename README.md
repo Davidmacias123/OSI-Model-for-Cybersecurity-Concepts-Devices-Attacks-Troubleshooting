@@ -13,6 +13,9 @@ Think of it like **sending a package**:
 - Each layer has a specific job
 - If something breaks, the OSI model helps you pinpoint **where** the issue is happening
 
+
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b250d64-ef6a-4931-9898-b6d7f6c5f98e" />
+
 ---
 
 ## The 7 OSI Layers (Top → Bottom)
@@ -33,6 +36,10 @@ This is where apps communicate with the network.
 **Easy analogy**
 - Like the **post office front desk** where you hand over your package.
 
+
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/bf3d3c47-2ed2-4377-b5fc-a4fb10efc558" />
+
+
 ---
 
 ### Layer 6 — Presentation  
@@ -48,6 +55,10 @@ This layer:
 
 **Easy analogy**
 - Like the worker who **wraps your package** so it’s secure and understandable anywhere.
+
+
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/f3e2d823-c36b-449a-93f1-0505026687f1" />
+
 
 ---
 
@@ -68,6 +79,10 @@ This layer:
   Talking → Maintain session  
   “Bye” → End session  
 
+
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/1f64dbe0-7b0f-4698-8013-7ec0a5066866" />
+
+
 ---
 
 ### Layer 4 — Transport  
@@ -85,6 +100,10 @@ Controls **how data moves** end-to-end.
 
 **Easy analogy**
 - The delivery truck deciding **careful vs fast** delivery.
+
+
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/335c95b2-2012-4328-b9ac-f8b1370e1b02" />
+
 
 ---
 
@@ -104,6 +123,10 @@ This is the **routing layer**.
 **Easy analogy**
 - Like the **GPS** choosing the best route.
 
+
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/efbe8a03-669e-48ed-96ff-c372ee5d206c" />
+
+
 ---
 
 ### Layer 2 — Data Link  
@@ -122,6 +145,9 @@ Handles:
 **Easy analogy**
 - Like the **neighborhood roads** to reach the right house.
 
+
+<img width="5667" height="1642" alt="image" src="https://github.com/user-attachments/assets/a5553ed2-3c79-4ebf-8a22-3f1c9897a740" />
+
 ---
 
 ### Layer 1 — Physical  
@@ -134,6 +160,10 @@ Everything that sends raw bits (1s and 0s):
 
 **Easy analogy**
 - The **road and wires** the delivery uses.
+
+
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/d043ce7b-9863-4f16-9e56-497f80ed5cd9" />
+
 
 ---
 
