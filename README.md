@@ -181,7 +181,7 @@ Everything that sends raw bits (1s and 0s):
 
 ---
 
-## Security Attacks by OSI Layer (Security+ Friendly)
+## Security Attacks by OSI Layer
 
 - **Layer 7:** SQL Injection, XSS, CSRF, web app abuse  
 - **Layer 6:** TLS/SSL downgrade attacks, weak encryption  
@@ -193,7 +193,7 @@ Everything that sends raw bits (1s and 0s):
 
 ---
 
-## Troubleshooting with the OSI Model (Simple Checklist)
+## Troubleshooting with the OSI Model
 
 Use this when “the network isn’t working”:
 
@@ -230,13 +230,6 @@ The TCP/IP model has **4 layers**, but it covers the same idea:
 - **OSI Layer 4 → TCP/IP Transport**
 - **OSI Layer 3 → TCP/IP Internet**
 - **OSI Layers 2–1 → TCP/IP Link**
-
----
-
-## Easy Mnemonic (7 → 1)
-
-**A**ll **P**eople **S**eem **T**o **N**eed **D**ata **P**rocessing  
-(Application, Presentation, Session, Transport, Network, Data Link, Physical)
 
 ---
 
