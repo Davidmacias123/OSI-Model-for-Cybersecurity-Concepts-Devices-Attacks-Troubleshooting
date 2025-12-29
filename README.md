@@ -239,7 +239,8 @@ The TCP/IP model has **4 layers**, but it covers the same idea:
 
 
 
-<img width="1080" height="1350" alt="image" src="https://github.com/user-attachments/assets/38247f65-1c32-4b71-983a-9a96d8754fdf" />
+<img width="1080" height="1235" alt="530838677-38247f65-1c32-4b71-983a-9a96d8754fdf" src="https://github.com/user-attachments/assets/0b944b67-5c2d-4b7c-86c6-426736a8285a" />
+
 
 
 ---
