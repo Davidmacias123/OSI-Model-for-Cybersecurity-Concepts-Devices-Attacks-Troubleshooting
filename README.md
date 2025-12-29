@@ -146,7 +146,7 @@ Handles:
 - Like the **neighborhood roads** to reach the right house.
 
 
-<img width="5667" height="1642" alt="image" src="https://github.com/user-attachments/assets/a5553ed2-3c79-4ebf-8a22-3f1c9897a740" />
+<img width="516" height="430" alt="image" src="https://github.com/user-attachments/assets/a5553ed2-3c79-4ebf-8a22-3f1c9897a740" />
 
 ---
 
