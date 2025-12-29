@@ -191,6 +191,9 @@ Everything that sends raw bits (1s and 0s):
 - **Layer 2:** ARP poisoning, MAC flooding, VLAN hopping  
 - **Layer 1:** Cable cuts, Wi-Fi jamming, physical tapping  
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 03_12_09 PM" src="https://github.com/user-attachments/assets/ca29d1e4-c731-47a7-bfb8-2a61fd604c1e" />
+
 ---
 
 ## Troubleshooting with the OSI Model
@@ -219,6 +222,9 @@ Use this when “the network isn’t working”:
 ### 5) Layer 7 — Application
 - Is the website/app itself down?
 - Try another browser, device, or network
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Dec 29, 2025, 03_10_42 PM" src="https://github.com/user-attachments/assets/e1cef0c7-22f5-48b6-b018-8a994075b811" />
 
 ---
 
