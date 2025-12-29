@@ -1,7 +1,6 @@
-# OSI Model Super Pack (No PDFs)
+# OSI Model for Cybersecurity – Concepts, Devices, Attacks & Troubleshooting
 
-This repository is a **beginner-friendly, professional** guide to the **OSI Model** and how it’s used in real networks and cybersecurity.  
-It explains **what the OSI model is**, **what each layer does**, **common protocols**, **device examples**, **security attacks by layer**, and a **step-by-step troubleshooting checklist**.
+In-depth OSI model reference detailing layer-by-layer functions, protocol behavior, device mapping, security attack vectors by layer, and structured troubleshooting methodology. Built to demonstrate practical networking knowledge and analytical understanding of layered network architecture.
 
 ---
 
