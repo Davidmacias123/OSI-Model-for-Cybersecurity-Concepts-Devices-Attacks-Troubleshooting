@@ -210,21 +210,3 @@ The TCP/IP model has **4 layers**, but it covers the same idea:
 
 ---
 
-## Recommended Repository Structure
-
-You can keep it simple:
-
-```
-osi-model-super-pack/
-├─ README.md
-└─ images/
-   ├─ osi_chart.png
-   └─ tcpip_chart.png
-```
-
----
-
-## License
-
-Use this material for learning, labs, and portfolio documentation.  
-(If you want a formal license file added, pick: MIT, Apache-2.0, or CC BY.)
